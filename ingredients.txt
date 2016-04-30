@@ -4,7 +4,8 @@ pepper
 salt 
 lime
 cilantro
-onions
+2 onions
+1 onion
 garlic
 chili
 
